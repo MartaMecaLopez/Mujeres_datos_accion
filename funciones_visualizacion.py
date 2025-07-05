@@ -43,4 +43,20 @@ def porcentaje_nulos(df):
 
 
 
+def extract_data_df(df):
+    print('INFORMACIÓN SOBRE COLUMNAS')
+    print('  ')
+    print(df.info())
+    print('  ')
+    print('--------------------------------------------------')
+    print('  ')
+    print('VISUALIZACIÓN DE NULOS')
+    print('  ')
+    print(df.isnull().sum())
+    ver_unicos(df)
+
+    return df.head()
+
+
+
 
