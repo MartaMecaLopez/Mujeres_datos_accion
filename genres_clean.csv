@@ -766,6 +766,10 @@ Sleeping Beauty,53285,Fantasy
 Sleeping Beauty,53285,Animation
 Sleeping Beauty,53285,Romance
 Sleeping Beauty,53285,Family
+Sleeping Beauty,53285,Fantasy
+Sleeping Beauty,53285,Animation
+Sleeping Beauty,53285,Romance
+Sleeping Beauty,53285,Family
 Ben-Hur,52618,Action
 Ben-Hur,52618,Drama
 Ben-Hur,52618,History
@@ -3244,6 +3248,7 @@ George of the Jungle,119190,Adventure
 George of the Jungle,119190,Comedy
 George of the Jungle,119190,Family
 George of the Jungle,119190,Romance
+The Mirror,117056,Drama
 The Mirror,117056,Drama
 The Peacemaker,119874,Action
 The Peacemaker,119874,Thriller
@@ -7159,6 +7164,7 @@ The Good Doctor,1582271,Mystery
 Apartment 143,1757742,Horror
 Apartment 143,1757742,Thriller
 Last Call at the Oasis,2043900,Documentary
+Last Call at the Oasis,2043900,Documentary
 What's Your Number?,770703,Comedy
 What's Your Number?,770703,Romance
 Mars Needs Moms,1305591,Adventure
@@ -7970,6 +7976,9 @@ Saving Mr. Banks,2140373,History
 Puella Magi Madoka Magica the Movie Part III: Rebellion,2457282,Mystery
 Puella Magi Madoka Magica the Movie Part III: Rebellion,2457282,Animation
 Puella Magi Madoka Magica the Movie Part III: Rebellion,2457282,Fantasy
+Puella Magi Madoka Magica the Movie Part III: Rebellion,2457282,Mystery
+Puella Magi Madoka Magica the Movie Part III: Rebellion,2457282,Animation
+Puella Magi Madoka Magica the Movie Part III: Rebellion,2457282,Fantasy
 For Elise,2403419,Horror
 For Elise,2403419,Mystery
 Only Lovers Left Alive,1714915,Drama
@@ -8428,6 +8437,8 @@ About a Girl,3334794,Drama
 About a Girl,3334794,Comedy
 Selma,1020072,History
 Selma,1020072,Drama
+Into the Woods,2180411,Fantasy
+Into the Woods,2180411,Comedy
 Into the Woods,2180411,Fantasy
 Into the Woods,2180411,Comedy
 The Theory of Everything,2980516,Drama
@@ -9317,6 +9328,10 @@ Jack Reacher: Never Go Back,3393786,Action
 Jack Reacher: Never Go Back,3393786,Thriller
 Bridget Jones's Baby,1473832,Comedy
 Bridget Jones's Baby,1473832,Romance
+Moana,3521164,Adventure
+Moana,3521164,Comedy
+Moana,3521164,Family
+Moana,3521164,Animation
 Moana,3521164,Adventure
 Moana,3521164,Comedy
 Moana,3521164,Family
@@ -11935,6 +11950,7 @@ Killer's Kiss,48254,Crime
 Killer's Kiss,48254,Drama
 Killer's Kiss,48254,Thriller
 Saboteur,35279,Thriller
+Saboteur,35279,Thriller
 The Iron Petticoat,49369,Comedy
 The Wrong Man,51207,Crime
 The Wrong Man,51207,Drama
@@ -12556,6 +12572,8 @@ Yellowbeard,86618,Adventure
 Local Hero,85859,Comedy
 Local Hero,85859,Drama
 WarGames,86567,Action
+Terms of Endearment,86425,Drama
+Terms of Endearment,86425,Comedy
 Terms of Endearment,86425,Drama
 Terms of Endearment,86425,Comedy
 The Man with Two Brains,85894,Comedy
